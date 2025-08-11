@@ -9,7 +9,7 @@
 
 ## 🚀 About Me  
 - 🎓 Studying **Computer Science**  
-- 💡 Interested in **AI/ML, Blockchain, and FinTech**    
+- 💡 Interested in **AI/ML, Quant, Blockchain, and FinTech**    
 - 🎯 Goal: Build tech solutions & scale them into impactful businesses  
 
 ---
