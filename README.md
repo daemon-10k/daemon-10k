@@ -27,7 +27,7 @@
 
 ## 📌 Featured Projects  
 - [MemorEase](https://github.com/daemon-10k/SRS_Flashcard) – Spaced Repetition Flashcard App 
-- [AI Portfolio Optimizer](https://github.com/your-link) – ML-based investment optimizer  
+- [Axiom](https://github.com/daemon-10k/Axiom) – AI-Powered Indonesian Stock Predictions  
 - [Recipe Recommender](https://github.com/daemon-10k/CulinAIre) – Ingredient-based recipe suggestion system  
 
 ---
