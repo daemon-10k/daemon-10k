@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](banner1.png)
 
 # 👋 Hi, I’m Ruben  
 💻 Computer Science undergrad | AI, FinTech & Web Development  
