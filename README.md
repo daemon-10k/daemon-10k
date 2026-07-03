@@ -1,6 +1,6 @@
 ![Banner](banner.jpg)
 
-# 👋 Hi, I’m Seraphim Ruben Udjung
+# 👋 Hi, I’m Ruben 
 **Computer Science Undergraduate | AI & Quant Finance | Full-Stack Developer**
 
 Welcome to my digital workspace! I am a software engineer and AI researcher focused on bridging the gap between deep machine learning, financial technology, and robust web applications. I thrive at the intersection of data-driven market analysis and scalable software architecture.
